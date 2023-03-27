@@ -62,7 +62,7 @@ function App() {
   return (
     //Bem
     <div className="app">
-      <p>Olueapelumi</p>
+
       {
         token ? (
           <Player spotify={spotify} />
